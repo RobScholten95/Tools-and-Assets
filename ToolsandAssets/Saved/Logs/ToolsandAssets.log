@@ -737,3 +737,4 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.22-14.36.04:100][  2]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
 [2022.12.22-14.36.25:064][985]LogD3D12RHI: Creating RT View Heap with 250000 entries
 [2022.12.22-14.36.25:084][985]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2022.12.22-14.37.40:695][356]LogDerivedDataCache: C:/Users/Rob/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.378 and deleted 0 file(s) with total size 0 MiB.
